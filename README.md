@@ -1,0 +1,2 @@
+# BeKind
+consent is mandatory
