@@ -21,4 +21,3 @@ library("dplyr")  # after install we have to load the package
 ??name_of _any_value # to show description in better way topic vise
  
 I CAN'T TELL YOU MORE BECAUSE TERMS AND CONDITIONS APPLY HERE YOU WILL NOT UNDERSTAND
-thank you :)
